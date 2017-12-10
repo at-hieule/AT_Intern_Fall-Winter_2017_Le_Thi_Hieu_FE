@@ -75,3 +75,8 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 }
+.about-item{
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+}
